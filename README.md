@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Screenshot
+![image](https://github.com/rohit02rsk/workindia-frontend-assignment/assets/96235764/13388fd7-6161-4493-b8a6-b88827f0d5e9)
+
 ## Available Scripts
 
 In the project directory, you can run:
